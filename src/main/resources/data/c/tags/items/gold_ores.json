@@ -2,7 +2,6 @@
   "replace": false,
   "values": [
 	"minecraft:gold_ore",
-	"nether_gold_ore",
 	"minecraft:deepslate_gold_ore"
   ]
 }
