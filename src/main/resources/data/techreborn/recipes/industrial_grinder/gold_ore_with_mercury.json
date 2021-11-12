@@ -8,7 +8,7 @@
 	},
 	"ingredients": [
 		{
-			"tag": "minecraft:gold_ores"
+			"tag": "c:gold_ores"
 		}
 	],
 	"results": [
